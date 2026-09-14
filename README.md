@@ -33,6 +33,7 @@
 12. Collegatevi al server nel quale avete inserito la chiave pubblica.
 13. Inserire il pin della carta quendo richieto.
 14. Compare il prompt della macchina.
+15. Ad ogni login viene richiesto il pin della carta.
 
 ## Rimozione certificato
 Se si rimuove la carta non è più possibile fare i login e bisogna ripetere i punti 4 e 5 del login.
