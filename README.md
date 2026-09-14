@@ -16,7 +16,7 @@
 15. Nella Pageant Key List viene aggiunta una linea con il certificato, che contiene anche il codice fiscale della persona intestataria della CNS.
 16. Selezionare con il mouse la linea del certificato.
 17. Premere sul bottone Copy To Clipboard.
-18. Fare il login sulla macchina nella quale si vuole aggiungere la chiave pubblica e aggiungerla nel file .ssh/authorized_keys
+18. Fare il login sulla macchina nella quale si vuole aggiungere la chiave pubblica nel file .ssh/authorized_keys
  
 ## Effettuare il login.
 1. Collegare il lettore.
