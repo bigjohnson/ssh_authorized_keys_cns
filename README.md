@@ -4,7 +4,7 @@
 3. Installa un lettore usb compatibile con la CNS, io uso un lettore ACS ACR38 bit4id.
 4. Io ho una carta ACJ 2025 ed ho installato il software di gestione della carta preso dalla pagina del Sistema Tessera Sanitaria
 5. Collegare il lettore alla porta usb e inserire la carta, nel mio lettore se la carta è inserita correttamente si accende un led verde.
-6. Installare il programma putty-cac, che è una versione di putty che ha una modifica per gestire il Common Access Card.
+6. Installare il programma putty-cac, che è una versione di putty con una modifica per gestire il Common Access Card.
 7. Aprire un prompt di dos con il comando cmd.exe
 8. Lanciare il comando **certutil.exe -scinfo** per leggere la carta.
 9. Inserire il pin della carta quando richiesto.
