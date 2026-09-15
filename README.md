@@ -43,4 +43,4 @@ Ho provato anche con il lettore ACR122U contactless, la mia carta è dual mode s
 
 Per eseguire la procedura non servono i comandi **certutil.exe -scinfo** perché in nfc viene rilevata in automatico.
 
-Ho provato con la carta d'identità elettronica 3.0 ma non va assolutamente daccordo con il mio lettore e non me la legge dnado errori, comunque penso che con un lettore copatibile si possa usare anche quella.
+Ho provato con la carta d'identità elettronica 3.0 ma non va assolutamente daccordo con il mio lettore e non me la legge dando errori, comunque penso che con un lettore copatibile si possa usare anche quella.
