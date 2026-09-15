@@ -41,3 +41,4 @@ Se si rimuove la carta non è più possibile fare i login e bisogna ripetere i p
 ## Accesso contactless
 Ho provato anche con il lettore ACR122U contactless, la mia carta è dual mode sia smartcard che nfc.
 Non per eseguire la procedura non serve eseguire i comandi **certutil.exe -scinfo** perchè in nfc viene rilevata in automatico.
+Ho provato con la carta d'identità elettronica 3.0 ma non va assolutamente daccordo con il mio lettore e non me la legge dnado errori, comunque penso che con un lettore copatibile si possa usare anche quella.
