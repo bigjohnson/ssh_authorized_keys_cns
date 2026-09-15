@@ -22,7 +22,7 @@
 1. Collegare il lettore.
 2. Inserire la carta.
 3. Aprire un prompt di dos con il comando cmd.exe
-4. Lanciare il comando **certutil.exe** -scinfo per leggere la carta.
+4. Lanciare il comando **certutil.exe -scinfo** per leggere la carta.
 5. Inserire il pin della carta quando richiesto.
 6. Aprire **pageant.exe**
 7. Cliccare sul bottone Add CAPI_Cert
@@ -37,3 +37,7 @@
 
 ## Rimozione certificato
 Se si rimuove la carta non è più possibile fare i login e bisogna ripetere i punti 4 e 5 del login.
+
+## accesso contactless
+Ho provato anche con il lettore ACR122U contactless, la mia carta è dual mode sia smartcard che nfc.
+Non per eseguire la procedura non serve eseguire i comandi **certutil.exe -scinfo** perchè in nfc viene rilevata in automatico.
